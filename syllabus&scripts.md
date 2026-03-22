@@ -1,20 +1,56 @@
 # Coffee Startup Club for Middle School Students
 
-Welcome to the Coffee Startup Club! In this program, you will get a hands-on experience in entrepreneurship by launching and running a real coffee business. You will be making coffee, but you are not just learning to make drinks - You are learning how to think like an entrepreneur, how to build a brand, how to manage costs, how to turn ideas into profits, and more importantly, how to serve people.
+Welcome to the Coffee Startup Club! In this program, you will get a hands-on experience in launching and running a real coffee business. You will be making coffee, selling coffee but more importantly, you are learning how to think like an entrepreneur, how to build a brand, how to manage costs, how to turn ideas into profits, and how to serve people.
 
 Write down the word "entrepreneur" in your notebook. What does it mean to you? What do you think entrepreneurs do? (pause and let students reflect) We will explore these questions together as we build our coffee business.
 
-I'm doing my entrepreneurship by teaching you how to do entrepreneurship. You are doing your entrepreneurship by making and selling coffee. We are both entrepreneurs in this journey, and we are learning by doing and learning from each other. My role is to guide you, do research, provide resources, and create a safe space for experimentation. Your role is to be curious, be creative, and be brave.
+By definition, an entrepreneur is someone who identifies a problem or opportunity and creates a solution that adds value to others. Entrepreneurs are problem solvers, creators, and leaders. They take risks, learn from failure, and keep improving until they succeed. In this club, I'm an entrepreneur and I'm teaching you to become one. You are doing your entrepreneurship by making and selling coffee. We are both entrepreneurs in this journey.
 
-## Failure is not an option
+## Will we fail?
 
-According to U.S. Bureau of Labor Statistics data, nearly half of all new businesses close within five years. So what actually kills startups? Research shows the top reasons fall into three categories:
+According to U.S. Bureau of Labor Statistics data, nearly half of all new businesses close within five years. So what actually kills startups? 
 
 ![Top reasons startups fail](top-reasons-startups-fail.png)
 
-- **Market & cash failures (the biggest killers):** 42% of startups fail because there was _no market need_ — they built something nobody wanted. Another 29% simply _ran out of cash_. Together, these two account for nearly half of all startup deaths.
-- **People & competition failures:** 23% had the _wrong team_ — talented individuals who couldn't work together or lacked key skills. 19% got _outcompeted_ — a better-funded or better-positioned rival won the market.
-- **Execution & strategy failures:** 18% had _pricing issues_ (too high, too low, or no clear model). 17% built a _poor product_, and another 17% had _no business model_ at all. 14% failed at _marketing_ — a great product that nobody knew about.
+Research shows the top reasons startups fail:
+- 42% of startups fail because there was _no market need_ — they built something nobody wanted. 
+
+![Google Glasses](google-glass.png)
+> Google Glass (2013) — high-tech glasses that let you check email and take photos in public. Cool idea, but people felt awkward wearing them and didn't want to be recorded. Nobody bought them.
+- Another 29% simply _ran out of cash_. ![MoviePass](movie-pass.png)
+> MoviePass (2018) — offered unlimited movie tickets for $9.95/month. The problem: they paid full price for every ticket. With heavy users seeing 30+ movies a month, they were losing $40+ per customer per month. They burned through cash at a staggering rate and collapsed within a year. The math was broken from day one.
+
+- 23% had the _wrong team_ — talented individuals who couldn't work together or lacked key skills. 
+
+![Wrong team](wrong-team.png)
+>Steve Jobs co-founded Apple, then personally recruited John Sculley away from Pepsi (not Coca-Cola) in 1983 with the famous line: "Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?"
+>Within two years, they clashed badly over product strategy and company direction. The board sided with Sculley and forced Steve Jobs out of his own company in 1985.
+>Without Jobs, Apple spent 11 years making mediocre products and nearly went bankrupt. They brought Jobs back in 1997, and within a few years he launched the iMac, iPod, iPhone, and iPad — arguably the greatest product run in business history.
+
+- 19% got _outcompeted_ — a better-funded or better-positioned rival won the market. 
+
+![Nokia vs. iPhone](nokia-iphone.png)
+>Nokia vs. iPhone (2007) — Nokia was the world's largest phone maker, selling nearly 40% of all phones on Earth. Then the iPhone launched. Nokia's CEO famously said they had "nothing to worry about." Within five years, Nokia's phone business was sold to Microsoft for almost nothing.
+
+- 18% had _pricing issues_ (too high, too low, or no clear model).
+
+![Pricing issues](pricing-issues.png)
+
+>JCPenney (2012) — CEO Ron Johnson (the man who designed Apple Stores) eliminated all sales and coupons, moving to "everyday fair prices." Customers hated it. Sales dropped 25% in one year — $4 billion in lost revenue. He was fired after 17 months. People wanted to feel like they were getting a deal, even if the math was the same.
+
+- 17% built a _poor product_, something that didn't meet customer expectations or solve their problem. 
+
+![Amazon Fire Phone](poor-product.png)
+> Amazon Fire Phone (2014) — Amazon's attempt at a smartphone. It had a gimmicky 3D display that nobody asked for, was priced like an iPhone, and ran a version of Android that couldn't access the Google Play store. It flopped within months.
+
+- and another 17% had _no business model_ at all — they never figured out how to make money. 
+
+!(No business model](no-business-model.png)
+>Youtube (2005) — YouTube launched in 2005 and grew explosively, but it had no revenue model and no profit. It was just a free video-sharing site. Google acquired YouTube in October 2006 despite the fact that it had “shown no capability or interest in generating profit.” Over the next decade, YouTube added: Display ads, Pre‑roll video ads, Mobile ads, Content ID monetization, Subscription products (YouTube Red → Premium). It took 10 years before they developed an ad-based model that turned it into a profitable business.
+
+- 14% failed at _marketing_ — a great product that nobody knew about.
+![Marketing failure](bad-marketing.png)
+>Pebble (2012) — The smartwatch that invented the smartwatch category, years before Apple Watch. It had a passionate fanbase but could never communicate its value to mainstream buyers. When Apple Watch launched with a massive marketing campaign, Pebble got crushed and sold for parts in 2016.
 
 Now let's go through these reasons and see how we can avoid them in our coffee business:
 
