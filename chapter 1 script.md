@@ -1,4 +1,4 @@
-# Coffee Startup Club for Middle School Students
+# Coffee Startup Club for Middle School Students - Day 1
 
 Welcome to the Coffee Startup Club! In this program, you will get a hands-on experience in launching and running a real coffee business. You will be making coffee, selling coffee but more importantly, you are learning how to think like an entrepreneur, how to build a brand, how to manage costs, how to turn ideas into profits, and how to serve people.
 
@@ -115,17 +115,12 @@ In this club, we are learning by doing. Failure just means a lesson we haven't l
 
 [![Video](https://img.youtube.com/vi/vchYQ6aJwgs/0.jpg)](https://www.youtube.com/watch?v=vchYQ6aJwgs)
 
-## The educational opportunity
 
-- 66% of American adults drink coffee each day (compare that to the 10% of U.S. adults who eat eggs daily) (Ask students: How many cups of coffee do your parents drink daily? Do you know someone who drinks coffee regularly?)
-- The coffee industry offers a wide range of learning opportunities, from sourcing and preparation to branding and marketing.
-- Running a coffee business allows students to experience the full entrepreneurial journey, from ideation to execution, in a tangible and rewarding way.
+## What will we learn?
 
-### Key Learning Outcomes
+By the end of this program, you will be able to:
 
-By the end of this program, students will be able to:
-
-- **Entrepreneurship & Business Thinking**
+- **Entrepreneurship & Design Thinking**
   - Understand what makes a viable business idea
   - Identify customer problems and pain points
   - Develop a business plan from concept to execution
