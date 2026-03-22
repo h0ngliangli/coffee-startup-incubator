@@ -10,46 +10,46 @@ By definition, an entrepreneur is someone who identifies a problem or opportunit
 
 According to U.S. Bureau of Labor Statistics data, nearly half of all new businesses close within five years. So what actually kills startups? 
 
-![Top reasons startups fail](top-reasons-startups-fail.png)
+![Top reasons startups fail](images/top-reasons-startups-fail.png)
 
 Research shows the top reasons startups fail:
 - 42% of startups fail because there was _no market need_ — they built something nobody wanted. 
 
-![Google Glasses](google-glass.png)
+![Google Glasses](images/google-glass.png)
 > Google Glass (2013) — high-tech glasses that let you check email and take photos in public. Cool idea, but people felt awkward wearing them and didn't want to be recorded. Nobody bought them.
-- Another 29% simply _ran out of cash_. ![MoviePass](movie-pass.png)
+- Another 29% simply _ran out of cash_. ![MoviePass](images/movie-pass.png)
 > MoviePass (2018) — offered unlimited movie tickets for $9.95/month. The problem: they paid full price for every ticket. With heavy users seeing 30+ movies a month, they were losing $40+ per customer per month. They burned through cash at a staggering rate and collapsed within a year. The math was broken from day one.
 
 - 23% had the _wrong team_ — talented individuals who couldn't work together or lacked key skills. 
 
-![Wrong team](wrong-team.png)
+![Wrong team](images/wrong-team.png)
 >Steve Jobs co-founded Apple, then personally recruited John Sculley away from Pepsi (not Coca-Cola) in 1983 with the famous line: "Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?"
 >Within two years, they clashed badly over product strategy and company direction. The board sided with Sculley and forced Steve Jobs out of his own company in 1985.
 >Without Jobs, Apple spent 11 years making mediocre products and nearly went bankrupt. They brought Jobs back in 1997, and within a few years he launched the iMac, iPod, iPhone, and iPad — arguably the greatest product run in business history.
 
 - 19% got _outcompeted_ — a better-funded or better-positioned rival won the market. 
 
-![Nokia vs. iPhone](nokia-iphone.png)
+![Nokia vs. iPhone](images/nokia-iphone.png)
 >Nokia vs. iPhone (2007) — Nokia was the world's largest phone maker, selling nearly 40% of all phones on Earth. Then the iPhone launched. Nokia's CEO famously said they had "nothing to worry about." Within five years, Nokia's phone business was sold to Microsoft for almost nothing.
 
 - 18% had _pricing issues_ (too high, too low, or no clear model).
 
-![Pricing issues](pricing-issues.png)
+![Pricing issues](images/pricing-issues.png)
 
 >JCPenney (2012) — CEO Ron Johnson (the man who designed Apple Stores) eliminated all sales and coupons, moving to "everyday fair prices." Customers hated it. Sales dropped 25% in one year — $4 billion in lost revenue. He was fired after 17 months. People wanted to feel like they were getting a deal, even if the math was the same.
 
 - 17% built a _poor product_, something that didn't meet customer expectations or solve their problem. 
 
-![Amazon Fire Phone](poor-product.png)
+![Amazon Fire Phone](images/poor-product.png)
 > Amazon Fire Phone (2014) — Amazon's attempt at a smartphone. It had a gimmicky 3D display that nobody asked for, was priced like an iPhone, and ran a version of Android that couldn't access the Google Play store. It flopped within months.
 
 - and another 17% had _no business model_ at all — they never figured out how to make money. 
 
-!(No business model](no-business-model.png)
+!(No business model](images/no-business-model.png)
 >Youtube (2005) — YouTube launched in 2005 and grew explosively, but it had no revenue model and no profit. It was just a free video-sharing site. Google acquired YouTube in October 2006 despite the fact that it had “shown no capability or interest in generating profit.” Over the next decade, YouTube added: Display ads, Pre‑roll video ads, Mobile ads, Content ID monetization, Subscription products (YouTube Red → Premium). It took 10 years before they developed an ad-based model that turned it into a profitable business.
 
 - 14% failed at _marketing_ — a great product that nobody knew about.
-![Marketing failure](bad-marketing.png)
+![Marketing failure](images/bad-marketing.png)
 >Pebble (2012) — The smartwatch that invented the smartwatch category, years before Apple Watch. It had a passionate fanbase but could never communicate its value to mainstream buyers. When Apple Watch launched with a massive marketing campaign, Pebble got crushed and sold for parts in 2016.
 
 Now let's go through these reasons and see how we can avoid them in our coffee business:
