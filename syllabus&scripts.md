@@ -2,7 +2,7 @@
 
 Welcome to the Coffee Startup Club! In this program, you will get a hands-on experience in launching and running a real coffee business. You will be making coffee, selling coffee but more importantly, you are learning how to think like an entrepreneur, how to build a brand, how to manage costs, how to turn ideas into profits, and how to serve people.
 
-Write down the word "entrepreneur" in your notebook. What does it mean to you? What do you think entrepreneurs do? (pause and let students reflect) We will explore these questions together as we build our coffee business.
+Write down the word "**entrepreneur**" in your notebook. What does it mean to you? What do you think entrepreneurs do? (pause and let students reflect) We will explore these questions together as we build our coffee business.
 
 By definition, an entrepreneur is someone who identifies a problem or opportunity and creates a solution that adds value to others. Entrepreneurs are problem solvers, creators, and leaders. They take risks, learn from failure, and keep improving until they succeed. In this club, I'm an entrepreneur and I'm teaching you to become one. You are doing your entrepreneurship by making and selling coffee. We are both entrepreneurs in this journey.
 
@@ -52,10 +52,15 @@ Research shows the top reasons startups fail:
 ![Marketing failure](images/bad-marketing.png)
 >Pebble (2012) — The smartwatch that invented the smartwatch category, years before Apple Watch. It had a passionate fanbase but could never communicate its value to mainstream buyers. When Apple Watch launched with a massive marketing campaign, Pebble got crushed and sold for parts in 2016.
 
+## We won't fail
 Now let's go through these reasons and see how we can avoid them in our coffee business:
 
-- **No market need:** According to the National Coffee Association, 66% of American adults drink coffee each day (compare that to the 10% of U.S. adults who eat eggs daily). U.S. consumers spend more than $100 billion every year on coffee products, contributing to a coffee economy that supports 2.2 million jobs and adds over $343 billion to the U.S. economy. Why consumers spend more than $100b every year on coffee can add over $343 billion to the economy?
-  > The economic multiplier effect explains this. Consumer spending on coffee doesn't just pay for the cup — it ripples through many layers of the economy:
+**Market Need** 
+
+![Market Need](images/market-need.png)
+
+According to the National Coffee Association, 66% of American adults drink coffee each day (compare that to the 10% of U.S. adults who eat eggs daily). U.S. consumers spend more than $100 billion every year on coffee products, contributing to a coffee economy that supports 2.2 million jobs and adds over $343 billion to the U.S. economy. Why consumers spend more than $100b every year on coffee can add over $343 billion to the economy?
+  > **The economic multiplier** Consumer spending on coffee doesn't just pay for the cup — it ripples through many layers of the economy:
   > Direct spending ($100B from consumers) triggers:
   > Supply chain activity — Retailers buy from distributors, who buy from roasters, who buy from importers, who buy from farmers. Each transaction adds value.
   > Employment income — Those 2.2 million jobs (baristas, truck drivers, equipment technicians, marketers, etc.) generate wages, which workers spend on other things, creating more economic activity.
@@ -65,23 +70,52 @@ Now let's go through these reasons and see how we can avoid them in our coffee b
   >
   > **Simple analogy for middle schoolers:** You pay $5 for a latte. The coffee shop pays $1 to the roaster, $0.50 to the cup manufacturer, $1.50 in wages to the barista, $0.75 in rent. The barista uses their paycheck to buy groceries. The landlord uses rent to pay a plumber. Each dollar keeps moving.
 
-Economists call this the **multiplier effect** — every dollar spent in an industry "multiplies" as it passes through the economy. The coffee industry's multiplier is roughly 3.4x ($343B ÷ $100B), which is typical for a large consumer goods sector with deep supply chains.
 
 Coffee is a product with a huge, established market. We are not trying to invent a new gadget or app that may or may not find users. We are selling something people already want and buy regularly. Our "market risk" is minimal — we just need to make sure our drinks taste good and we show up at the right events. We have a built-in customer base of classmates, teachers, and parents who will support us. That's a huge advantage compared to most startups.
 
-- **Ran out of cash:** The good news is that we don't have cash. Thanks to your parents, they are covering the costs and we keep all profits. This means we can focus on learning and iterating without the pressure of financial risk. We will track our costs and revenue, but we won't be losing money if we make mistakes. This is a huge advantage for us as student entrepreneurs.
-- **Wrong team:** In adult startups, co-founders often break up over money, ownership, or who gets to be in charge. We don't have those problems — nobody owns shares here, nobody is risking their salary, and nobody gets fired. Our "team risk" is much simpler: showing up, doing your part, and supporting each other. That's something you already know how to do.
-- **Outcompeted:** Adult startups compete for the same customers, the same market share, and sometimes the same survival. We're not in that fight. Our "competitors" are the vending machine down the hall or the café across the street — and we have something they don't: a personal connection. Your classmates and teachers know you. They want to see you succeed. That's a home-field advantage no funded startup can buy.
-- **Pricing issues:** Getting the price wrong can sink a real business — too high and customers leave, too low and you run out of money. We'll practice pricing math together: calculating exactly what each drink costs to make, then setting a price that covers costs and earns a profit. There's no mystery to it — it's just arithmetic. And if we get it wrong the first time, we adjust. No harm done.
-- **Poor product:** As you can see, "Poor product" is the No. 6 reason startups fail. It's contrary to popular belief that companies bankrupt because their products are bad. Coffee drinkers are addicted. Unless you make a very bad cup, you will not have this risk. Also, they are very tolerant to young baristas. Our advantage: we get to practice, taste-test, and improve before we ever sell a single cup. Every session in the kitchen is a chance to make our drinks better. We are our own toughest critics — and that's a good thing.
-- **No business model:** Many startups fail because they never figured out how they'd actually make money. We start with a simple, proven model: make a drink, sell it for more than it costs to make, keep the difference. It doesn't get more straightforward than that. As we grow, we can experiment — but the foundation is always the same.
-- **Poor marketing:** A great product that nobody knows about doesn't sell. We'll learn how to spread the word — through social media, posters, word of mouth, and showing up at the right school events. The best part: young people do well in this field. That is your advantage. You know how to use Instagram and TikTok. You know how to make a fun video or a catchy post. You have a built-in audience of friends and classmates who want to support you. We will leverage those strengths to get the word out. You are the trend, not me.
+**Ran out of cash? Never!**
 
-Then why do I say "Failure is not an option"?
+![Cash](images/never-ran-out-of-cash.png)
+
+The good news is that we don't have cash. Thanks to your parents, they are covering the costs and we keep all profits. This means we can focus on learning and iterating without the pressure of financial risk. We will track our costs and revenue, but we won't be losing money if we make mistakes. This is a huge advantage for us as student entrepreneurs.
+
+**No Wrong Team** 
+
+In adult startups, co-founders often break up over money, ownership, or who gets to be in charge. We don't have those problems — nobody owns shares here, nobody is risking their salary, and nobody gets fired. Our "team risk" is much simpler: showing up, doing your part, and supporting each other. That's something you already know how to do.
+
+
+**Outcompeted** 
+
+Adult startups compete for the same customers, the same market share, and sometimes the same survival. We're not in that fight. Our "competitors" are the vending machine down the hall or the café across the street — and we have something they don't: a personal connection. Your classmates and teachers know you. They want to see you succeed. That's a home-field advantage no funded startup can buy.
+
+**Pricing issues**
+
+Getting the price wrong can sink a real business — too high and customers leave, too low and you run out of money. We'll practice pricing math together: calculating exactly what each drink costs to make, then setting a price that covers costs and earns a profit. There's no mystery to it — it's just arithmetic. And if we get it wrong the first time, we adjust. No harm done.
+
+**Poor product** 
+
+As you can see, "Poor product" is the No. 6 reason startups fail. It's contrary to popular belief that companies bankrupt because their products are bad. Coffee drinkers are addicted. Unless you make a very bad cup, you will not have this risk. Also, they are very tolerant to young baristas. Our advantage: we get to practice, taste-test, and improve before we ever sell a single cup. Every session in the kitchen is a chance to make our drinks better. We are our own toughest critics — and that's a good thing.
+
+**No business model** 
+
+Many startups fail because they never figured out how they'd actually make money. We start with a simple, proven model: make a drink, sell it for more than it costs to make, keep the difference. It doesn't get more straightforward than that. As we grow, we can experiment — but the foundation is always the same.
+
+**Poor marketing** 
+
+A great product that nobody knows about doesn't sell. We'll learn how to spread the word — through social media, posters, word of mouth, and showing up at the right school events. The best part: young people do well in this field. That is your advantage. You know how to use Instagram and TikTok. You know how to make a fun video or a catchy post. You have a built-in audience of friends and classmates who want to support you. We will leverage those strengths to get the word out. You are the trend, not me.
+
+## Failure is not an option
+
+![Failure is not an option](images/failure-not-an-option.png)
+
 It was a phrase popularized by NASA during the Apollo missions, meaning that they had to succeed — there was no room for failure. Have you ever watched a show called "Blue Men" in Las Vegas? I had a friend who worked there. Yes, he was a blue man. He dreamed about being a blue man since he was your age. He practiced for years, auditioned, and finally got the role. He was on stage every night performing for thousands of people until one day, his manager called him into the office and said, "Sorry, we have to let you go." He was devastated. He had achieved his dream, but it was taken away from him. He felt like a failure. He ended up going back to school. It was a business school and he learned not only how to run a business but also realized that his strength was communication and storytelling. Suddenly, what he practiced as a blue man — engaging an audience, telling a story without words, connecting with people — became his superpower in the business world. He is now a successful entrepreneur. He told me "My parents always told me 'Failure is not an option.' Now I understand what they meant. Failure is not an option. It's a must."
 In this club, we are learning by doing. Failure just means a lesson we haven't learned yet. Every burnt batch of coffee, every slow sales event, every idea that didn't work — that's not failure. It just means we need to make it better. A smart entrepreneur knows how to break down a big failure into smaller ones. We may not be able to handle big failures but we can handle small ones and turn them into opportunities.
 
-### The educational opportunity
+## 10min Break
+
+[![Video](https://img.youtube.com/vi/vchYQ6aJwgs/0.jpg)](https://www.youtube.com/watch?v=vchYQ6aJwgs)
+
+## The educational opportunity
 
 - 66% of American adults drink coffee each day (compare that to the 10% of U.S. adults who eat eggs daily) (Ask students: How many cups of coffee do your parents drink daily? Do you know someone who drinks coffee regularly?)
 - The coffee industry offers a wide range of learning opportunities, from sourcing and preparation to branding and marketing.
