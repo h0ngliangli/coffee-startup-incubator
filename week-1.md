@@ -111,12 +111,15 @@ A great product that nobody knows about doesn't sell. We'll learn how to spread 
 It was a phrase popularized by NASA during the Apollo missions, meaning that they had to succeed — there was no room for failure. Have you ever watched a show called "Blue Men" in Las Vegas? I had a friend who worked there. Yes, he was a blue man. He dreamed about being a blue man since he was your age. He practiced for years, auditioned, and finally got the role. He was on stage every night performing for thousands of people until one day, his manager called him into the office and said, "Sorry, we have to let you go." He was devastated. He had achieved his dream, but it was taken away from him. He felt like a failure. He ended up going back to school. It was a business school and he learned not only how to run a business but also realized that his strength was communication and storytelling. Suddenly, what he practiced as a blue man — engaging an audience, telling a story without words, connecting with people — became his superpower in the business world. He is now a successful entrepreneur. He told me "My parents always told me 'Failure is not an option.' Now I understand what they meant. Failure is not an option. It's a must."
 In this club, we are learning by doing. Failure just means a lesson we haven't learned yet. Every burnt batch of coffee, every slow sales event, every idea that didn't work — that's not failure. It just means we need to make it better. A smart entrepreneur knows how to break down a big failure into smaller ones. We may not be able to handle big failures but we can handle small ones and turn them into opportunities.
 
-## 10min Break
+## Let's take a break
 
 [![Video](https://img.youtube.com/vi/vchYQ6aJwgs/0.jpg)](https://www.youtube.com/watch?v=vchYQ6aJwgs)
 
+(During the break, hand out the content of "What will we learn?" below)
 
 ## What will we learn?
+
+Welcome back! Now that we've talked about what entrepreneurship is in theory, let's talk about what we are going to do in this club. I have printed it out for you. This is our roadmap for the next few weeks. Let's go through it together.
 
 By the end of this program, you will be able to:
 
@@ -150,248 +153,30 @@ By the end of this program, you will be able to:
   - Handle customer interactions professionally
   - Pitch ideas and present results to an audience
 
----
+If you look at the syllabus, and you start to feel overwelmed, it means yo are a human. If not, you are a robot. Sorry, just kidding.
 
-## Overview
+We are all human. Our brain is not designed to process a large amount of information at once. Thousands years ago, when our ancestors were living in caves, do you think they had to read a big syllabus with many words and go through all the chapters of a textbook called "How to hunt?" before they could go out and hunt for food? No. Every morning, they worry about one thing: survival. But the way they survived may not be what you think. Let me give you a story:
 
-|                       |                                     |
-| --------------------- | ----------------------------------- |
-| **Target audience**   | Middle school students (grades 6–8) |
-| **Program length**    | TBD                                 |
-| **Meeting frequency** | TBD                                 |
-| **Session length**    | TBD                                 |
-| **Max club size**     | TBD                                 |
+![serve](images/serve.png)
 
----
+>It's early morning. The sun has just risen over the hills.
+>
+>A woman named Asha wakes up first. She is the fire keeper. She blows on the coals from last night, feeds them dry leaves, and gets the fire going. Without her, there is no warmth. No cooked food. Everyone else sleeps a little longer because they trust her to do this.
+>
+>An older man named Drum cannot run anymore — his knee was injured years ago. But his eyes are sharp and his memory is long. He knows which berries are safe, which clouds bring rain, which animal tracks mean danger is near. The young hunters come to him before they leave. He is the tribe's knowledge. Without him, the hunters would make dangerous mistakes.
+>
+>Three hunters — two teenagers and one young adult — head out at dawn. They move fast and quiet. Their only job today is to find food and bring it back. They are not thinking about fire, or berries, or how to cook. They trust that those things are handled.
+>
+>Back at camp, two women are weaving baskets and watching the young children. The baskets will carry the food the hunters bring back. The children they watch will one day be hunters, fire keepers, and weavers themselves.
+>
+>When the hunters return with meat, Asha's fire is ready. Drum tells them how to prepare it safely. The weavers bring the baskets. Everyone eats.
+>
+>Nobody did everything. Everybody did something. And because of that, everyone survived. In summary, they survived by serving because they can't survive alone.
 
-## Program Phases
+So do me a favor. Scrample the paper and toss it. Do it now.
 
-The program is organized into five phases. Each phase builds on the last and culminates in students running a real sales event.
+Good. In this club, we are like a small team within a large tribe. We don't serve meat like hunters. We serve coffee. We want to do our best to make the best coffee we can, to serve our customers well, and to support each other. We will learn by doing. We will learn by serving. 
 
-```
-Phase 1: Foundation → Phase 2: Craft → Phase 3: Brand → Phase 4: Sales → Phase 5: Growth
-```
+The syllabus is just a roadmap. But it's not something you need to worry about. It's something I worry about - that's why I am here. Now write down the word "serve" in your notebook and reflect on what we just talked about and what it means to you. 
 
----
-
-## Phase 1 — Foundation
-
-_Goal: Build shared understanding of what a business is and how coffee fits into it._
-
-### Module 1.1 — What Is a Startup?
-
-- [ ] What makes a business a "startup" vs. a regular small business
-- [ ] Examples of student-run businesses
-- [ ] Discussion: What problem does a coffee shop solve?
-
-### Module 1.2 — The Coffee World
-
-- [ ] Brief history of coffee and café culture
-- [ ] Overview of the supply chain: farm → roaster → café → customer
-- [ ] Types of coffee drinks (overview, not hands-on yet)
-
-### Module 1.3 — Know Your Customer
-
-- [ ] Who buys coffee at school events? Who doesn't? Why?
-- [ ] Introduction to customer personas
-- [ ] Activity: Interview 3 people about their drink preferences
-
-### Module 1.4 — Finding the Right Partners
-
-- [ ] Why partnerships matter for a small operation
-- [ ] Types of partners: suppliers, venues, sponsors, mentors
-- [ ] What to look for in a partner; red flags to avoid
-- [ ] Activity: Map out potential partners in your community
-- [ ] Guest speaker slot: [ TBD — local café owner / roaster ]
-
----
-
-## Phase 2 — Craft
-
-_Goal: Develop hands-on coffee preparation skills and quality standards._
-
-> **Note:** All hands-on sessions require adult supervision. Equipment and safety protocols TBD.
-
-### Module 2.1 — Equipment & Safety
-
-- [ ] Overview of equipment used in the club (TBD based on budget)
-- [ ] Safety rules: heat, electricity, food handling
-- [ ] Cleaning and sanitation standards
-
-### Module 2.2 — Core Drinks
-
-- [ ] Drip coffee / pour-over basics
-- [ ] Espresso fundamentals (if equipment permits)
-- [ ] Milk steaming and texturing
-- [ ] Cold brew preparation
-- [ ] Practice: Make and taste-test a standard drink menu item
-
-### Module 2.3 — Building a Menu
-
-- [ ] Drink tiers: simple → signature
-- [ ] Considering dietary needs (dairy-free options, caffeine-free)
-- [ ] Naming drinks: personality and branding opportunity
-- [ ] Activity: Propose a 5-item starter menu with rationale
-
-### Module 2.4 — Quality & Consistency
-
-- [ ] Why consistency matters in a business
-- [ ] Simple recipes and measurement
-- [ ] Peer review: evaluate each other's drinks against a rubric
-
----
-
-## Phase 3 — Brand & Marketing
-
-_Goal: Build a brand identity and learn how to reach customers._
-
-### Module 3.1 — Brand Basics
-
-- [ ] What is a brand? (name, logo, voice, values)
-- [ ] Examples: analyze real café brands students know
-- [ ] Activity: Define your club's brand values (3 words)
-
-### Module 3.2 — Naming & Visual Identity
-
-- [ ] Brainstorming and voting on a business name
-- [ ] Introduction to basic logo design (Canva or similar free tool)
-- [ ] Choosing a color palette and font style
-- [ ] Deliverable: Draft logo and name decision
-
-### Module 3.3 — Social Media Strategy
-
-- [ ] Which platforms make sense for a student business? (Instagram, TikTok, etc.)
-- [ ] Content types: behind-the-scenes, product shots, stories, events
-- [ ] Posting rhythm and scheduling basics
-- [ ] Rules: privacy, permissions, school policy compliance
-- [ ] Activity: Plan a 2-week content calendar for a launch
-
-### Module 3.4 — Content Creation
-
-- [ ] Phone photography tips for food/drink
-- [ ] Writing captions that convert
-- [ ] Using free design tools for graphics
-- [ ] Practice: Shoot and edit a product photo
-
-### Module 3.5 — Word of Mouth & Community Marketing
-
-- [ ] Flyers, posters, announcements — old-school still works
-- [ ] Getting teachers and staff on board as advocates
-- [ ] Leveraging school events for visibility
-
----
-
-## Phase 4 — Sales & Operations
-
-_Goal: Run a real sales event from setup to closedown._
-
-### Module 4.1 — Planning a Sales Event
-
-- [ ] Choosing the right venue and event (school lunch, sports game, fair)
-- [ ] Getting approvals: school administration, food safety guidelines
-- [ ] Equipment and supply checklist
-- [ ] Assigning roles: barista, cashier, greeter, supply runner
-
-### Module 4.2 — Pricing & Money Math
-
-- [ ] Cost of goods: ingredients, cups, supplies
-- [ ] Calculating cost per drink
-- [ ] Setting a price: covering costs + making profit
-- [ ] Introduction to simple profit/loss tracking
-
-### Module 4.3 — The Customer Experience
-
-- [ ] Greeting customers and taking orders
-- [ ] Handling mistakes and complaints gracefully
-- [ ] Speed vs. quality tradeoffs during a rush
-- [ ] Role-play practice: busy event simulation
-
-### Module 4.4 — First Sales Event
-
-- [ ] Pre-event checklist and setup
-- [ ] Running the event (facilitated by advisor)
-- [ ] Closedown: cleaning, counting revenue, restocking notes
-- [ ] Debrief: What went well? What would you change?
-
----
-
-## Phase 5 — Growth & Reflection
-
-_Goal: Analyze results, improve operations, and think about what comes next._
-
-### Module 5.1 — Reading the Numbers
-
-- [ ] Revenue, costs, and profit from the first event
-- [ ] What does the data tell us? (best-selling drink, peak times)
-- [ ] Setting goals for the next event
-
-### Module 5.2 — Iterating on the Business
-
-- [ ] Customer feedback: how to collect and use it
-- [ ] Menu updates based on sales data
-- [ ] Improving efficiency in prep and service
-
-### Module 5.3 — Finance Basics
-
-- [ ] What to do with profit: reinvest vs. distribute vs. save
-- [ ] Keeping a simple business ledger
-- [ ] Introduction to a budget for a future event
-
-### Module 5.4 — Looking Ahead
-
-- [ ] Could this become a school enterprise? A real business someday?
-- [ ] Guest speaker slot: [ TBD — young entrepreneur / alumni ]
-- [ ] Reflection: What did you learn about yourself?
-- [ ] Showcase: Present your business to an audience (parents, school)
-
----
-
-## Roles & Responsibilities
-
-_Students rotate through roles across the program._
-
-| Role            | Responsibilities                                        |
-| --------------- | ------------------------------------------------------- |
-| Head Barista    | Leads drink preparation; maintains quality standards    |
-| Operations Lead | Manages supply inventory and event logistics            |
-| Marketing Lead  | Runs social media and designs promotional materials     |
-| Finance Lead    | Tracks expenses, revenue, and budget                    |
-| Customer Lead   | Handles front-of-house, orders, and customer experience |
-
----
-
-## Resources & Tools
-
-_To be populated as the program develops._
-
-| Category         | Resource           | Notes                       |
-| ---------------- | ------------------ | --------------------------- |
-| Design           | Canva              | Free for students           |
-| Finance tracking | Google Sheets      | TBD template                |
-| Social media     | Instagram / TikTok | School policy review needed |
-| Coffee education | TBD                |                             |
-| Supplier         | TBD                | Seeking local partner       |
-
----
-
-## Appendix
-
-### A — Equipment List (Draft)
-
-- [ ] TBD based on budget and venue
-
-### B — Budget Template
-
-- [ ] TBD
-
-### C — Event Permission & Safety Checklist
-
-- [ ] TBD — coordinate with school administration
-
-### D — Suggested Reading & Viewing
-
-- [ ] TBD
-
----
-
-_Last updated: 2026-03-20 | Version: 0.1 — skeleton draft_
+One of today's homework is making a coffee for your family. I have some instant coffee right here. Feel free to take one. I want you to find someone to serve. Make the best coffee with what you have and serve it to them with respect. The goal is to practice serving someone else. It could be your parents, your siblings. If you can't find anyone to serve at home, you can serve me if you want. I will be honored to be your first customer.
