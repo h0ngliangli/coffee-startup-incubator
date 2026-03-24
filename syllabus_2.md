@@ -63,7 +63,7 @@ Student safety is the top priority. The following policies apply at all times:
 Students are expected to bring the following to each session:
 
 - Program binder or notebook (provided at orientation)
-- Pen or pencil
+- Pen, highlighter, a note-taking device (optional)
 - [Optional] Personal laptop or tablet for digital marketing modules
 
 All product supplies, brewing equipment, and business materials are funded through the club startup budget and community partnerships.
