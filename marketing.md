@@ -48,13 +48,28 @@ Now imagine if Starbucks just focused on making good coffee, but didn't care abo
 
 This is the power of marketing. It's not just ads, sales, or social media. It's product + experience.
 
-> In one sentence: we are not selling coffee, we are selling happiness.
+> In one sentence: 
+>
+> **We are not selling coffee but selling happiness.**
 
 
-By understanding our customers, you serve better. You can create products and experiences that they will love — and that will keep them coming back.
-- **Attract Customers:** You can have the best coffee in the world, but if no one knows about it, you won't have any customers. Marketing helps you get the word out and attract people to your stand.
-- **Build a Brand:** A strong brand can create an emotional connection with customers, making them more likely to choose your coffee over others. Marketing helps you build and communicate your brand identity.
-- **Drive Sales:** Ultimately, the goal of marketing is to drive sales. By effectively promoting your products and creating a strong brand, you can increase your sales and grow your club.
+
+## Now the fun part: Build a Marketing Strategy
+We've spoken a lot about what marketing is and how important it is, but how do you actually put into action? This is where a marketing strategy comes in. 
+
+> In one sentence: 
+>
+> **A marketing strategy is a plan of action that helps you sell your products.**
+
+It can be physical (e.g. coffee stand design, packaging) or digital (e.g. social media content, email newsletter, local newspaper). It can be a one-time campaign (e.g. back-to-school promotion) or an ongoing effort (e.g. maintaining an Instagram account).
+
+### Stand Design
+![coffee stand](images/stand-design.png)
+There are many ways to design a coffee stand, but here are some key principles to keep in mind:
+- **Make it inviting:** Creeate a cozy and welcoming atmosphere. For example, you can use bright colors, a chalkboard menu, and some plants to create a cozy and welcoming atmosphere.
+- **Make it efficient:** Design the layout of your stand to minimize wait times and make it easy for customers to order and pick up their drinks. For example, you can have a clear flow from ordering to payment to pickup, and make sure you have enough space for your equipment and supplies.
+- **Make it memorable:** Create a unique and memorable experience that will make customers want to come back and tell their friends about it. For example, you can have a signature drink, a fun name for your stand, or a special promotion that encourages repeat business.
+- **Make the logistics easy:** Design your stand in a way that makes it easy to set up and take down, especially if you plan to move it around to different events. For example, you can use a portable table or cart, and have a checklist of all the supplies you need to bring.
 
 ## Activity 1: Identify your customers (target market)
 
