@@ -35,6 +35,8 @@ Run through this checklist before your first customer arrives:
 
 ## During the Sale
 
+**Stay on duty.** When you are at the stand, you are working — not hanging out. If friends come to chat, greet them warmly, serve them if they're buying, then refocus. One person must always be watching for the next customer.
+
 **Stay calm.** Things will go wrong. A cup will spill. Someone will ask for something you don't have. You'll run low on an ingredient. These are normal. Stay calm and work through them.
 
 **Track everything.** Every drink sold gets a tally mark. You need this data for the debrief.

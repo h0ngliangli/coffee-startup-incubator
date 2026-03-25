@@ -179,4 +179,35 @@ Good. In this club, we are like a small team within a large tribe. We don't serv
 
 The syllabus is just a roadmap. But it's not something you need to worry about. It's something I worry about - that's why I am here. Now write down the word "serve" in your notebook and reflect on what we just talked about and what it means to you. 
 
+## Your Team
+
+Just like Asha, Drum, and the hunters — nobody does everything. Everybody does something.
+
+In this program, you will work in teams of **4 to 5 students**. That is small enough that every person has a real job, and large enough that no one person carries everything alone.
+
+Here is why that number matters:
+
+- **Too small (2–3 people):** Everyone is doing two or three jobs at once. You burn out. Things fall through the cracks. One person stepping away breaks the whole operation.
+- **Too large (6+ people):** Some people run out of things to do — and when people have nothing to do, they disengage. That's when the stand falls apart from the inside.
+- **4–5 people:** Every person has a clear role. Every role is essential.
+
+**The four core roles at your stand:**
+
+| Role | What you do |
+|------|-------------|
+| **Order Taker** | Greets customers, takes orders, repeats them back clearly |
+| **Barista** | Makes the drinks — focus, consistency, speed |
+| **Cashier** | Handles payment, gives change, tracks what was sold |
+| **Runner / Handoff** | Delivers drinks to customers, keeps the workspace clean and stocked |
+
+If your team has a 5th person, they become the **Floater** — covering breaks, managing the queue when it gets long, and stepping in wherever the team needs support. This is not a lesser role. A good floater often makes or breaks a busy event.
+
+You will rotate roles across different sessions so that everyone learns every part of the business. By the end of the program, you should be able to do any job at the stand.
+
+Write down in your notebook: *Which role sounds most natural to you right now? Which one makes you most nervous?*
+
+The role that makes you nervous is probably the one you need to practice most.
+
+---
+
 One of today's homework is making a coffee for your family. I have some instant coffee right here. Feel free to take one. I want you to find someone to serve. Make the best coffee with what you have and serve it to them with respect. The goal is to practice serving someone else. It could be your parents, your siblings. If you can't find anyone to serve at home, you can serve me if you want. I will be honored to be your first customer.

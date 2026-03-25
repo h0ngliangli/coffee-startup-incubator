@@ -60,6 +60,32 @@ Acknowledge waiting customers with a smile or a quick "We'll be right with you!"
 
 ---
 
+## On-Shift Standards
+
+When you are on shift, you represent the business — not just yourself. Customers form their impression of your brand in seconds. How you carry yourself matters as much as how good your coffee is.
+
+**Focus**
+- If a customer is at the stand or could approach at any moment, you are on duty.
+- Save conversations with friends for after your shift or during a designated break.
+- One person should always be watching the stand, even when it's slow.
+
+**Phones**
+- Phones stay in your pocket when customers are present.
+- If you need to use your phone (timer, calculator), use it quickly and put it away.
+
+**Breaks**
+- Breaks are rotated so the stand is never left understaffed.
+- Ask your team lead before stepping away — never just disappear.
+
+**Team communication**
+- Keep side conversations short and quiet when customers are nearby.
+- If something goes wrong, solve it together calmly — don't argue in front of customers.
+
+**Why this matters**
+A customer who walks up and sees the team laughing with friends instead of noticing them will walk away. You may never know you lost that sale. Professionalism isn't about being stiff — it's about making every customer feel like they are your priority.
+
+---
+
 ## Part 2: Role-Play Selling Scenarios
 
 Today we practice before the real thing. It's always better to make your mistakes here than in front of real customers.
