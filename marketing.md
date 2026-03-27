@@ -79,6 +79,42 @@ There are many ways to design a coffee stand, but here are some key principles t
 - **Make it memorable:** Create a unique and memorable experience that will make customers want to come back and tell their friends about it. For example, you can have a signature drink, a fun name for your stand, or a special promotion that encourages repeat business.
 - **Make the logistics easy:** Design your stand in a way that makes it easy to set up and take down, especially if you plan to move it around to different events. For example, you can use a portable table or cart, and have a checklist of all the supplies you need to bring.
 
+### Writing on the Cup
+
+![Written on the cup](images/written-on-the-cup.png)
+
+A handwritten message costs nothing. But it can turn a one-time buyer into a regular, prompt a photo and a social media share, and make a teacher feel genuinely seen — all without a single advertisement.
+
+> Great customer experience is the lowest-cost form of marketing.
+
+The message you write on a cup can be as simple as a smiley face or as thoughtful as a personalized note — the key is to make the customer feel seen and appreciated.
+Here are some examples of messages you can write on cups to make customers feel special and create a memorable experience.
+#### For Teachers
+- "Thank you for teaching."
+- "You inspire us!"
+- "We appreciate all that you do!"
+- "I'm grateful for all that you do."
+- "You inspire us every day."
+
+### For Parents
+- "Thank you for your support!"
+- "Your support makes what we do possible!"
+- "Thanks for believing in us!"
+- "Made by your kid's classmates!"
+
+#### For School Events (General)
+- "Welcome!"
+- "Enjoy your coffee!"
+- "Thanks for coming!"
+- "Good morning!"
+- "Have a great day!"
+- "Made by Students!"
+- "Glad you're here today!"
+- "Crafted with love!"
+- ":-)"
+- "❥"
+
+
 ## Activity 1: Identify your customers (target market)
 
 - Take a moment to think about who your customers will be. Are they adults or kids? What are their roles? Teachers? Students? Parents? What are their needs and pain points? What do they value when it comes to coffee? Write down your thoughts and share with the class.
