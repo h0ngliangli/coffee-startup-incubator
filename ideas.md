@@ -7,3 +7,5 @@
 [ ] Recommand a book about coffee shop decoration and design.
 
 [ ] Create a vision board with pictures and words that represent our goals and dreams for the future.
+
+[ ] Share a video of robot making coffee and talk about how technology is changing the coffee industry.
